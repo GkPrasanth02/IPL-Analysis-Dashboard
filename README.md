@@ -1,4 +1,4 @@
-# 🏏 IPL Analysis Dashboard (2008)
+# 🏏 IPL Analysis Dashboard 
 
 An interactive **Power BI dashboard** created to analyze the **Indian Premier League (IPL) – 2008 season**. This project focuses on transforming raw cricket data into meaningful insights using data visualization and analytics.
 
